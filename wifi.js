@@ -1,1 +1,1 @@
-document.body.innerHTML = "HEH"
+console.log("Hello, World!")
